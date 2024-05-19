@@ -30,7 +30,7 @@ d=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(d))
 ```
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/sriharan23000516/DISTANCE-BETWEEN-TWO-POINTS/assets/139841769/a7da7b85-d340-455a-8f51-6154f5e58649)
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
